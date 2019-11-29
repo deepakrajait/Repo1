@@ -1,6 +1,11 @@
 hello how are you? 
 Okay boss
+<<<<<<< HEAD
 let's hangout ! 
 
 
 Testing line 1 by Deepak 
+=======
+let's hangout ! 
+This is line added by GIT. 
+>>>>>>> 400e3762f3a2f9b702560ec4b5348a4438947dc8

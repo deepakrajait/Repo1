@@ -4,11 +4,6 @@ let's hangout !
 Testing line 1 by Deepak 
 let's hangout ! 
 This is line added by GIT. 
-<<<<<<< HEAD
-
-
 Okay by Deepak 
-=======
-
 Okay by GitHub
->>>>>>> afaac6e5c905f7dd11aa25b40e5ebbc3155735e3
+
